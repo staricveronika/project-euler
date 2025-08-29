@@ -1,4 +1,4 @@
-# najdaljše collatzovo zaporedje števila pol 1 mio
+# najdaljše collatzovo zaporedje števila pod 1 mio
 
 def naslednji_clen(n):
     while n > 0:
